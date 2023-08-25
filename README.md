@@ -9,7 +9,3 @@ CarStar is a portfolio website that presents a car rental service designed to pr
 
  • Python
  • Apache Spark
- 
- 
-### Screenshots of the Project:
-![Screenshots](https://github.com/kaiodeodato/data_sampling/blob/main/M5_U3_kaio_deodato.pdf)
